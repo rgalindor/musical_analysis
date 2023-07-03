@@ -1,4 +1,4 @@
-# Musical analysis
+# Musical analysis with Python
 
 This repo is a personal project to understand personal behaviour for music.
 
@@ -52,7 +52,7 @@ poetry add <package-name>[@<version>]
 ```
 
 
-
 ## Contact info
 
 Roberto Galindo Ramírez
+[rgalindor](https://rgalindor.github.io/)
